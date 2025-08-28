@@ -1,0 +1,7 @@
+Scenario,Firm,Revenue,Profit,TotalQuantity,ConversionRate
+Baseline,Firm_A,27134.08,13567.04,2713.41,0.16
+Baseline,Firm_B,79031.17,31707.57,9464.72,0.52
+Baseline,Firm_C,44618.49,18275.7,5268.56,0.31
+Shock,Firm_A,26588.05,13294.03,2658.81,0.16
+Shock,Firm_B,73821.49,29804.39,8803.42,0.52
+Shock,Firm_C,45359.6,18349.32,5402.06,0.31
